@@ -9,6 +9,6 @@ It notifies you about the start of a new period with beeps and the end of the da
 
 NOTE:
 program requires module openpyxl
-    (pip install openpyxl)
-  
-	Beeps work only on windows machines
+	pip install openpyxl
+
+Beeps work only on windows machines
