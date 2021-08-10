@@ -8,7 +8,7 @@ The program is a small window designed to sit at the corner of your screen durin
 It notifies you about the start of a new period with beeps and the end of the day with 2 beeps
 
 NOTE:
-  program requires module openpyxl
+program requires module openpyxl
     (pip install openpyxl)
   
-  Beeps work only on windows machines
+	Beeps work only on windows machines
