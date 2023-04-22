@@ -7,7 +7,7 @@ import os
 def middle(c):
     if c == 1:
         mmenu.destroy()
-        os.system('python realtimeTimetable.pyw')
+        os.system('python3 realtimeTimetable.pyw')
     elif c == 2:
         mmenu.attributes('-topmost',False)
         webbrowser.open_new('https://gems.phoenixclassroom.com/Account/login')
