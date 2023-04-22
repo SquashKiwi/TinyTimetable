@@ -2,9 +2,13 @@ from tkinter import *
 from tkinter.ttk import Progressbar
 from openpyxl import load_workbook
 import datetime
-import winsound
 import keyboard
 import os
+
+try:
+    import winsound
+except:
+    pass
 
 # GUI
 root = Tk()

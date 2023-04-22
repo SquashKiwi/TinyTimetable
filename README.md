@@ -9,10 +9,9 @@ Progress through the day
 It notifies you about the start of a new period with beeps and the end of the day with 2 beeps
 
 NOTE:
-program requires module openpyxl and webbrowser
+you must install the modules from the requirements.txt file for the program to run.
 
-`pip install openpyxl`
-`pip install webbrowser`
+`pip install -r requirements.txt`
 
 
 Beeps work only on windows machines
