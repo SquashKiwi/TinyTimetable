@@ -1,5 +1,5 @@
-# RealtimeTimetable
-Realtime Timetable helps you keep track of your day during online classes. 
+# TinyTimetable
+Tiny Timetable helps you keep track of your day during online classes. 
 
 The program is a small window designed to sit at the corner of your screen during online classes, and display useful information such as:
 Time until the next period, the next break and the end of the day.
